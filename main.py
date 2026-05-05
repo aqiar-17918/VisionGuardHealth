@@ -20,7 +20,7 @@ ALERT_COOLDOWN = 10
 
 BUFFER_SECONDS = 5
 FPS = 20
-TOKEN = "YOUR_TOKEN"
+TOKEN = "your_token"
 CHAT_ID = "your_chat_id"
 #  INIT 
 prev_gray = None
