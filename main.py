@@ -20,9 +20,8 @@ ALERT_COOLDOWN = 10
 
 BUFFER_SECONDS = 5
 FPS = 20
-
-TOKEN = "your token"
-CHAT_ID = "your chat id"
+TOKEN = "REMOVED" 
+CHAT_ID = "REMOVED"
 #  INIT 
 prev_gray = None
 frame_buffer = deque(maxlen=BUFFER_SECONDS * FPS)
